@@ -26,7 +26,7 @@ Ukubona and Gabriel discussed technical issues with Zoom and internet connectivi
 
 ### GitHub Repository Setup Tutorial
 
-Ukubona guided Gabriel through the process of creating a new GitHub repository and publishing a simple website. They discussed how to name the repository, create a new file, and commit changes. Ukubona explained how to set up GitHub Pages for the website and demonstrated how to access the published site. Gabriel successfully created a "Hello World" website that could be accessed by anyone with the link.
+Ukubona guided Gabriel through the process of creating a new GitHub repository and publishing a simple [website](https://gabrielampsha-boop.github.io/o_k/). They discussed how to name the repository, create a new file, and commit changes. Ukubona explained how to set up GitHub Pages for the website and demonstrated how to access the published site. Gabriel successfully created a "Hello World" website that could be accessed by anyone with the link.
 
 ### GitHub Markdown Website Editing Demo
 
